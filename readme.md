@@ -8,4 +8,4 @@
 * Dark Mode
 
 ## Sample in Execution 
-![Sample App](/sample/sample.mp4)
+./sample/sample.mp4
