@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MainViewController.tableView(_:willDisplay:forRowAt:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "tableData.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MainViewController.viewDidLoad():MainViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MainViewController.animateLoading(view:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "heightConstraint.constant">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.tableView(_:cellForRowAt:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.item">
+            </PersistentString>
+            <PersistentString
+               value = "tableDataFiltered">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CharacterWorker.fetch(request:):CharacterWorker.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.localizedDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainInteractor.fetch(name:):MainInteractor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.presenter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.tableView(_:numberOfRowsInSection:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableDataFiltered.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainInteractor.init(characterWorder:):MainInteractor.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static MainConfiguration.configure():MainConfiguration.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
