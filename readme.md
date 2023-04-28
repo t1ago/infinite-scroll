@@ -1,8 +1,8 @@
-# Rick And Morty (Infinity Scroll)
+# Rick And Morty (Infinite Scroll)
 
 * Clean Code (VIP)
 * Views
-* ScrollView Inifnity
+* ScrollView Infinite
 * Async/Await
 * PromisseKit
 * Dark Mode
